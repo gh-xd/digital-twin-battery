@@ -1,6 +1,6 @@
 ## A small practice of establishing Digital Twin
 
-The case and concept are introduced in the reference [How to Build a Digital Twin in Python](https://towardsdatascience.com/how-to-build-a-digital-twin-b31058fd5d3e). where I directly take the dataset, equations and codes of plot part in use, but I reconstruct the codes of neural networkr part with `pytorch` (in the reference, `keras` is used).
+The case and concept are introduced in the reference [How to Build a Digital Twin in Python](https://towardsdatascience.com/how-to-build-a-digital-twin-b31058fd5d3e). where I directly take the dataset, equations and codes of plot part in use, but I reconstruct the codes of neural network part with `pytorch` (in the reference, `keras` is used).
 
 ## Concept and approach
 
@@ -45,7 +45,7 @@ It is a simple practice to understand the approach. Many real case problems and 
 
 :no_entry_sign: It can not be directly considered as a solution, many efforts are not existing, e.g. neural network model design, learning rate configuration, error treatment, motst important, the twin data post-processing.
 
-:white_check_mark: It is more a template of approach know-how and can be elaborated specifically for certain engineering/research case
+:white_check_mark: It is a template of an approach knowhow and can be elaborated for specific engineering/research case
 
 :white_check_mark: It is promising to combine system simulation with neural network towards physics-informed form of digital twin
 
